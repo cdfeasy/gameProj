@@ -9,14 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>gameproj</groupId>
-    <artifactId>entity</artifactId>
-    <dependencies>
-        <dependency>
-            <artifactId>map</artifactId>
-            <groupId>gameproj</groupId>
-            <version>${parent.version}</version>
-        </dependency>
-    </dependencies>
+    <artifactId>map</artifactId>
+
 
 </project>
